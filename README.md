@@ -1,0 +1,1 @@
+git clone --mirror https://github.com/pc7zfphhs2-del/linux-management.git
